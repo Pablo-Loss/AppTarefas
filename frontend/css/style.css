@@ -1,0 +1,7 @@
+table td.right-align {
+    text-align: right;
+}
+
+table td.right-align button {
+    margin-left: 5px;
+}
